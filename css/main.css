@@ -1,0 +1,18 @@
+#leo-char {
+	color: blue;
+	float: left;
+	text-align: center;
+	border:3px solid black;
+}
+
+#marx-char {
+	color: green;
+	float: right;
+	text-align: center;
+	border: 3px solid black;
+}
+
+.btnn {
+	width: 200px;
+	height: 50px;
+}
