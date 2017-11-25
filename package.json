@@ -1,0 +1,22 @@
+{
+  "name": "ade_battle",
+  "version": "1.0.0",
+  "description": "Game where friends can play with each other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adifferentearth/ADE_Battle.git"
+  },
+  "author": "Aaron Mendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adifferentearth/ADE_Battle/issues"
+  },
+  "homepage": "https://github.com/adifferentearth/ADE_Battle#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
